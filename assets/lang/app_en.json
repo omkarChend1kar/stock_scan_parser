@@ -1,0 +1,9 @@
+{
+    "indicator_type": "indicator",
+    "value_type": "value",
+    "period": "Period",
+    "set_parameters": "Set Parameters",
+    "unknown_error_msg": "Something went wrong.",
+    "no_internet_connection": "No internet Connection",
+    "retry": "Retry"
+}

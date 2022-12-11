@@ -1,0 +1,15 @@
+{
+    "type": "variable",
+    "text": "Max of last 5 days close > Max of last 120 days close by $1 %",
+    "variable": {
+        "$1": {
+            "type": "value",
+            "values": [
+                2,
+                1,
+                3,
+                5
+            ]
+        }
+    }
+}
